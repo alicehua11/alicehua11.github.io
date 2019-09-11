@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568229633503.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3467272804",
+    "id" : "D7528A69",
+    "lastKnownWriteTime" : 1568229624,
+    "last_content_update" : 1568229624,
+    "path" : "C:/Users/alice/Desktop/Alice_Hua_CV/calalice1/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
